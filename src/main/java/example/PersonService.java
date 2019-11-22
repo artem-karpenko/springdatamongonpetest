@@ -1,4 +1,4 @@
-package test;
+package example;
 
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Autowired;

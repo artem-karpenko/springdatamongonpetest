@@ -1,4 +1,4 @@
-package test;
+package example;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
